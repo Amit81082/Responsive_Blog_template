@@ -2,7 +2,7 @@
 
 > 🌐 A stylish and fully responsive blog template built with HTML, CSS, and JavaScript. It offers a clean design, smooth navigation, and categorized blog posts, making it perfect for content creators, bloggers, and tech enthusiasts.
 
-Live Demo - https://github.com/Amit81082/Responsive_Blog_template
+Live Demo - (https://amit81082.github.io/Responsive_Blog_template/)
 
 ## 🎯 **Features**
 - 📱 **Responsive Design:** Fully optimized for desktops, tablets, and mobile devices.  
