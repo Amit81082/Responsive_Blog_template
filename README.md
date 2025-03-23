@@ -16,15 +16,8 @@ Live Demo - https://github.com/Amit81082/Responsive_Blog_template
 
 ## 📷 **Screenshots** ![image](https://github.com/user-attachments/assets/53dce187-5492-4bdd-ae36-361f05e310d8)
 ![image](https://github.com/user-attachments/assets/5911c52e-4dab-4de1-a618-71a080d0019b)
-![image](https://github.com/user-attachments/assets/ab016c69-fae0-4a68-877a-e111f945eede)
+![image](https://github.com/user-attachments/assets/579e7c9b-619b-46b5-91da-0cb945758212)
 
-
-
-### 💻 Desktop View  
-![Desktop View](https://via.placeholder.com/1200x600?text=Desktop+View)
-
-### 📱 Mobile View  
-![Mobile View](https://via.placeholder.com/400x700?text=Mobile+View)
 
 ---
 
